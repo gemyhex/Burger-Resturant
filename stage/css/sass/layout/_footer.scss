@@ -1,0 +1,111 @@
+.footer-content {
+    background: url(../images/banner2.jpg) center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    min-height: 28em;
+}
+
+hr {
+    border-top: 1px solid rgba(251, 247, 247, 0.1);
+}
+
+.layer.footer {
+    min-height: 28em;
+    background: rgba(0, 0, 0, 0.82);
+}
+
+.footer-top-inner-w3ls {
+    padding: 5em 2em 3em 2em;
+}
+
+.footer-content h2 a {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    font-weight: 600;
+    color: #ffc80a;
+}
+
+/* footer grids */
+
+ul.list-info-l {
+    list-style: none;
+}
+
+h4.footer-title {
+    color: #777;
+    text-transform: capitalize;
+}
+
+.footerv-top p {
+    font-size: 1em;
+    color: #a3b1bf;
+    margin: 1em 0;
+    line-height: 1.5em;
+}
+
+.footer p a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.last-contact p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #fff;
+    font-size: 0.85em;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 0.5em 0;
+}
+
+.footer-top p {
+    padding-right: 6em;
+    color: #fff;
+}
+
+.last-contact p a:hover {
+    color: #15b915;
+}
+
+.list-info-l li a {
+    color: #fff;
+    font-size: 0.85em;
+    letter-spacing: 1px;
+}
+
+.list-info-l li a:hover {
+    opacity: 0.8;
+}
+
+h3.footer-title {
+    font-size: 1.2em;
+    color: #fff;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.last-contact a {
+    color: #fff;
+}
+
+.icons li {
+    display: inline-block;
+    margin: 0 1em;
+}
+
+.icons li a span {
+    color: #fff;
+}
+
+.icons li a span:hover {
+    color: #ffc80a;
+}
+p.copy-right-grids{
+    letter-spacing: 2px;
+    color: #FFF;
+}
